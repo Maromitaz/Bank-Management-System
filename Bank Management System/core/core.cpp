@@ -10,7 +10,6 @@ unsigned long long cardGenerator() {
 	return final_card;
 }
 
-
 void Bank::init() {
 	std::cout << "Please enter your name: ";
 	std::getline(std::cin, holderName);
