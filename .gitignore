@@ -1,6 +1,7 @@
 # Directories
-.vs/
-bin/
+.vs
+bin
+obj
 
 # Files
 *.vcxproj
