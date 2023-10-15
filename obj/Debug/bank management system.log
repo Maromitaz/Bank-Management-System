@@ -1,0 +1,16 @@
+﻿  bank_creator.cpp
+C:\Users\alexg\Desktop\projects\c cpp\bank management system\src\bank_creator\bank_creator.cpp(64,17): warning C4244: 'initializing': conversion from '_Rep' to 'int', possible loss of data
+          with
+          [
+              _Rep=__int64
+          ]
+  bank_manager.cpp
+  main.cpp
+  run.cpp
+C:\Users\alexg\Desktop\projects\c cpp\bank management system\src\run\run.cpp(163,38): warning C4244: 'argument': conversion from 'uint64' to 'const unsigned int', possible loss of data
+C:\Users\alexg\Desktop\projects\c cpp\bank management system\src\run\run.cpp(132,3): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\alexg\Desktop\projects\c cpp\bank management system\src\run\run.cpp(134,20): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\alexg\Desktop\projects\c cpp\bank management system\src\run\run.cpp(190,3): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\alexg\Desktop\projects\c cpp\bank management system\src\run\run.cpp(192,20): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  Generating Code...
+  bank management system.vcxproj -> C:\Users\alexg\Desktop\projects\c cpp\bank management system\bin\Debug\bank management system.exe
